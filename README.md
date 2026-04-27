@@ -1,4 +1,4 @@
-# 💓 Heart Disease Prediction - Noor Rami Saad
+# 💓 Heart Disease Prediction 
 
 ## 📝 Objective
 Build a binary classification model to predict whether a patient has heart disease based on clinical features. This task emphasizes data cleaning, exploratory data analysis, model evaluation (including ROC curve and confusion matrix), and feature importance extraction.
@@ -80,3 +80,10 @@ Build a binary classification model to predict whether a patient has heart disea
 Logistic Regression achieved **82.07% test accuracy** with no overfitting, making it suitable for educational purposes. The most influential features (`cp`, `chol`, `age`) are clinically meaningful. Removing `id` and `dataset` was crucial to avoid data leakage and improve model generalizability.
 
 ## 📂 Repository Structure
+
+
+## 👤 Author
+[Noor Rami Saad] – AI/ML Engineering Intern @ DevelopersHub Corporation
+
+## 📅 Due Date
+27th April, 2026
