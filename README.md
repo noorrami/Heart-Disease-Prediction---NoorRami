@@ -4,7 +4,7 @@
 Build a binary classification model to predict whether a patient has heart disease based on clinical features. This task emphasizes data cleaning, exploratory data analysis, model evaluation (including ROC curve and confusion matrix), and feature importance extraction.
 
 ## 📁 Dataset
-- **Source**: [Heart Disease UCI (combined version)](https://raw.githubusercontent.com/jbrownlee/Datasets/master/heart.csv)
+- **Source**: [Heart Disease UCI (combined version)]([https://raw.githubusercontent.com/jbrownlee/Datasets/master/heart.csv](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data))
 - **Samples**: 920
 - **Original features**: 16 (including `id`, `dataset`, `num` as multi-class target)
 - **Processed features**: 14 (removed non-medical columns, binary target)
